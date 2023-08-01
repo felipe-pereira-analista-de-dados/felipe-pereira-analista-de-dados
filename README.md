@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Mel-Js" height="40" width="40" src="<script src=“https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js”></script><lottie-player src=“https://lottie.host/210eba78-0480-4373-a392-8afd711ad8f0/9WKZI6nmTT.json” background=“#FFFFFF” speed=“1” style=“width: 300px; height: 300px” loop controls autoplay direction=“1” mode=“normal”></lottie-player>">
+  <img align="center" alt="Mel-Js" height="40" width="40" src="<script src=“https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js”></script><lottie-player src=“https://lottie.host/ae437d35-589c-4dd5-94d9-ea543d92fd35/M8fKlKfaX7.lottie">
   
   
   <img align="center" alt="Mel-Python" height="40" width="40" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
