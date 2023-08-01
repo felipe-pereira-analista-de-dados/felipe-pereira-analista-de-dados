@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <div align="center">
    <img width="45.5%" height="195px" src="https://github-readme-stats.vercel.app/api?username=felipe-pereira-analista-de-dados&show_icons=true&theme=merko&PAT_1">
-   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-pereira-analista-de-dados&hide_progress=true&theme=synthwave&PAT_1">
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-pereira-analista-de-dados&hide_progress=true&theme=merko&PAT_1">
 </div>
 
