@@ -29,6 +29,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Mel-Python" height="40" width="40" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
 </div>
 
+###
+
 <div align="center">
    <a href="https://www.linkedin.com/in/felipe-pereira-analista-de-dados-jr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "mailto:felipe.pereira.lee@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
