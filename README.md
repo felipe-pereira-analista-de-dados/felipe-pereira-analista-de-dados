@@ -1,5 +1,5 @@
 # Olá, seja bem vindo(a)👋
-### Me chamo Felipe Pereira, sou formado em Sistema da informação, estagiei na área de desenvolvimento web por 2 anos, nesse trabalho eu percebi que o meu amor pelos dados era maior que o de dev, então resolvi me aventurar nesse novo desafio, no momento to focado nos estudos enquanto procuro emprego como analista de dados. Estou estudando SQL, Power BI, Excel e Python.
+### Me chamo Felipe Pereira, sou formado em Sistema da informação, estagiei na área de desenvolvimento web por 2 anos, nesse trabalho eu percebi que o meu amor pelos dados era maior que o de dev, então resolvi me aventurar nesse novo desafio, estou focado nos estudos enquanto procuro emprego na área analista de dados. Estou estudando SQL, Power BI, Excel e Python.
 ### Espero que vocês curtam os projetos que vão encontrar aqui, um abraço e obrigado pela visita😉.
 
 <!--
