@@ -1,6 +1,6 @@
-### Olá, seja bem vindo(a)👋
-## Me chamo Felipe Pereira, sou formado em Sistema da informação, estagiei na área de desenvolvimento web por 2 anos, nesse trabalho eu percebi que o meu amor pelos dados era maior que o de desenvolvimento web, então resolvi me aventurar nesse novo desafio, no momento eu to focado mais nos estudos enquanto eu procuro emprego como analista de dados. Estou estudando SQL, Power BI, Excel e Python. Nesse repositorio eu vou salvar a progressão nos estudos.
-Espero que vocês curtam os projetos que vão encontrar aqui, um abraço e obrigado por ter lido até o final.
+## Olá, seja bem vindo(a)👋
+### Me chamo Felipe Pereira, sou formado em Sistema da informação, estagiei na área de desenvolvimento web por 2 anos, nesse trabalho eu percebi que o meu amor pelos dados era maior que o de desenvolvimento web, então resolvi me aventurar nesse novo desafio, no momento eu to focado mais nos estudos enquanto eu procuro emprego como analista de dados. Estou estudando SQL, Power BI, Excel e Python. Nesse repositorio eu vou salvar a progressão nos estudos.
+###Espero que vocês curtam os projetos que vão encontrar aqui, um abraço e obrigado por ter lido até o final.
 
 <!--
 **felipe-pereira-analista-de-dados/felipe-pereira-analista-de-dados** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
