@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="excel" height="40" width="180" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+     <img align="center" alt="Mel-Python" height="40" width="40" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
   <img align="center" alt="mysql" heigth="40" width="140" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-  <img align="center" alt="Mel-Python" height="40" width="40" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
+
 </div>
 
 ###
